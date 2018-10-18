@@ -1,0 +1,28 @@
+{
+  "name": "obj-to-inline-style",
+  "version": "0.0.1",
+  "description": "Object to Inline Style.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aykutkardas/obj-to-inline-style.git"
+  },
+  "keywords": [
+    "Object",
+    "Syle",
+    "Javascript",
+    "CSS",
+    "Inline",
+    "Style",
+    "Convert"
+  ],
+  "author": "Aykut Kardaş",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aykutkardas/obj-to-inline-style/issues"
+  },
+  "homepage": "https://github.com/aykutkardas/obj-to-inline-style#readme"
+}
